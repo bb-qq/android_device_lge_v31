@@ -18,4 +18,4 @@
 -include device/lge/g3-kddi-common/BoardConfigCommon.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_v31_defconfig
+TARGET_KERNEL_CONFIG := lineageos_v31_defconfig
